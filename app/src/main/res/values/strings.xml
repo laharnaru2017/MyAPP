@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MLangSupportTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="passwordText">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="welcomeTest">Login Page!</string>
+    <string name="usernameText">Username</string>
+    <string name="logoutButton">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
